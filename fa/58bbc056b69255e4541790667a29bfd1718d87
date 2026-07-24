@@ -1,0 +1,19 @@
+README.md
+  s_3fc29bcd2b0674::t_7644a425252f50 33
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.15",
+  "base_commit_sha": "fa58bbc056b69255e4541790667a29bfd1718d87",
+  "prompts": {},
+  "sessions": {
+    "s_3fc29bcd2b0674": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f918f-ba33-7c80-828f-dd7505ce3c71",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": "Glenn Sonna <kenpachi.os@gmail.com>"
+    }
+  }
+}
